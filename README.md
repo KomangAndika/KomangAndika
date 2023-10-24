@@ -1,5 +1,4 @@
-Hi I'm Andika
-Life is hard
+Hi I'm Andika i want deez
 
 <!---
 KomangAndika/KomangAndika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
